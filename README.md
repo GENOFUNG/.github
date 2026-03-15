@@ -1,7 +1,9 @@
 # 🚀 GENOFUNG IT DIVISION
 
 <div align="center">
-
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Founded](https://img.shields.io/badge/Founded-2024-blue?style=for-the-badge)
+![Members](https://img.shields.io/badge/Members-10+-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -204,7 +206,7 @@ genofung-it/
 
 <div align="center">
 
-[📧 Email](mailto:it@genofung.org) • [💬 Discord](#) • [📱 Instagram](#https://instagram.com/@unggulan.smansasi)
+[📧 Email](mailto:it@genofung.org) • [💬 Discord](#) •[📱 Instagram](https://instagram.com/unggulan.smansasi)
 
 **Bergabung dengan kami!** Kami selalu terbuka untuk kolaborasi dan inovasi baru.
 
