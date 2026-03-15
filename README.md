@@ -204,7 +204,7 @@ genofung-it/
 
 <div align="center">
 
-[📧 Email](mailto:it@genofung.org) • [💬 Discord](#) • [📱 Instagram](#)
+[📧 Email](mailto:it@genofung.org) • [💬 Discord](#) • [📱 Instagram](#https://instagram.com/@unggulan.smansasi)
 
 **Bergabung dengan kami!** Kami selalu terbuka untuk kolaborasi dan inovasi baru.
 
